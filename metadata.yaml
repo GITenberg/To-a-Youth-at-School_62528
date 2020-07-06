@@ -1,0 +1,27 @@
+_repo: To-a-Youth-at-School_62528
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Religious Tract Society (Great Britain)
+    aliases:
+    - R.T.S.
+    - RTS
+    gutenberg_agent_id: '43999'
+    url: http://www.gutenberg.org/2009/agents/43999
+    wikipedia: https://en.wikipedia.org/wiki/Religious_Tract_Society
+description: ''
+gutenberg_issued: '2020-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile literature'
+- !lcc 'BV'
+- !lcsh 'Youth -- Conduct of life -- Juvenile literature'
+- GITenberg
+title: To a Youth at School
+url: http://www.gutenberg.org/ebooks/62528
